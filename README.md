@@ -18,9 +18,17 @@ Your average Minecraft client but instead for older ROBLOX clients (mostly 2016E
 * JumpAll - Makes everyone jump, **patched in 2021E**
 * Retard - hgfv5trg fh64t fd3fdch4w5tef ht4rdhsrxd
 * RetardAll - 34grjwelk fsdf hvgewfg4w5e grh643trf5jyh bgv4w5erf, **patched in 2017M**
+* SoundHell - Plays every sound in Workspace and mostly everywhere, **mostly patched in 2017L**, though if RespectFilteringEnabled is false it will work
 * SitAll - Makes everyone sit, **patched in 2021E**
 * Speed - Cumon step it up!!!
 * SuperJump - Makes you jump high
 * SwordAura - Killaura but if you have a sword
+* ToolCrash - Crashes the server with a tool, original method was made in 2020, version where it was patched is unknown
+* ToollessCrash - Crashes the server with a tool, original method was also made in 2020, version where it was patched is unknown
 ### FD
 * Shutdown - Shuts down the server
+## Credits
+Credits to all of these people!
+* louknt - Many of the vulnerabilitie listed here
+* ZwFaZe/Dank - lol
+* Wurst Client - Inspiring me to make this
