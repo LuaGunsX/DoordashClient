@@ -8,7 +8,7 @@ Your average Minecraft client but instead for older ROBLOX clients (mostly 2016E
 * Speed - Cumon step it up!!!
 * SuperJump - Makes you jump high
 ### Combat
-* SwordAura - Killaura but if you have a sword
+* SwordAura - Killaura but for when you have a sword
 ### Misc
 * AnHero - Become a hero!
 * BreakServer - Breaks AvatarService and other stuff, **patched in 2021E**
