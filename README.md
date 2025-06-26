@@ -9,7 +9,7 @@ Your average Minecraft client but instead for older ROBLOX clients (mostly 2016E
 * DabAll - Makes everyone dab on them haters, **patched in 2017M**
 * DestroyMap - Destroys the map entirely, **patched in 2022M**
 * DisableFE - Disables FE in Work at a Pizza Place, **patched in March 2017**
-* DismemberAll - Dismembers everyone's limbs
+* DismemberAll - Dismembers everyone's limbs, *patched in 2017M?*
 * ESP - lol
 * Fullbright - Makes it bright for you regardless if it is dark
 * Freecam - Controls your camera separately from the player
