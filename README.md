@@ -3,10 +3,12 @@ Your average Minecraft client but instead for older ROBLOX clients (mostly 2016E
 ## Features (planned)
 * Derp
 * DestroyMap
+* DisableFE
 * ESP
+* Equip
 * Fullbright
 * JumpAll
-* Infinite Jump
+* InfiniteJump
 * Freecam
 * Flight
 * SitAll
