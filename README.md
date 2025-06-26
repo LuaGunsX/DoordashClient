@@ -26,6 +26,7 @@ Your average Minecraft client but instead for older ROBLOX clients (mostly 2016E
 * ToolCrash - Crashes the server with a tool, original method was made in 2020, version where it was patched is unknown
 * ToollessCrash - Crashes the server with a tool, original method was also made in 2020, version where it was patched is unknown
 ### FD
+* BTools - lol
 * Shutdown - Shuts down the server
 ## Credits
 Credits to all of these people!
