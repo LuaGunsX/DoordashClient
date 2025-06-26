@@ -10,7 +10,6 @@ Your average Minecraft client but instead for older ROBLOX clients (mostly 2016E
 ### Combat
 * SwordAura - Killaura but for when you have a sword
 ### Misc
-* AnHero - Become a hero!
 * BreakServer - Breaks AvatarService and other stuff, **patched in 2021E**
 * BringAll - Brings everyone, **patched in 2017M**
 * Dab - Dab on them haters
@@ -19,8 +18,6 @@ Your average Minecraft client but instead for older ROBLOX clients (mostly 2016E
 * DisableFE - Disables FE in Work at a Pizza Place, **patched in March 2017**
 * DismemberAll - Dismembers everyone's limbs, **patched in 2017M?**
 * ESP - lol
-* Freecam - Controls your camera separately from the player
-* Flight - lol
 * Fullbright - Makes it bright always even if it is dark on your client
 * JumpAll - Makes everyone jump, **patched in 2021E**
 * Retard - hgfv5trg fh64t fd3fdch4w5tef ht4rdhsrxd
